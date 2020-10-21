@@ -1,0 +1,109 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\kndoa\OneDrive\Desktop\Data_Science\EMR_Test\target\classes
+compile options:
+1 items
+0 -> -Yresolve-term-conflict:object
+javac options:
+5 items
+0 -> -Xlint:unchecked
+1 -> -Xlint:deprecation
+2 -> -g
+3 -> -encoding
+4 -> UTF-8
+compiler version:
+1 items
+0 -> 2.12.10
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+2 items
+C:\Users\kndoa\OneDrive\Desktop\Data_Science\EMR_Test\src\main\scala\main.scala -> C:\Users\kndoa\OneDrive\Desktop\Data_Science\EMR_Test\target\classes\main$.class
+C:\Users\kndoa\OneDrive\Desktop\Data_Science\EMR_Test\src\main\scala\main.scala -> C:\Users\kndoa\OneDrive\Desktop\Data_Science\EMR_Test\target\classes\main.class
+binary dependencies:
+2 items
+C:\Users\kndoa\OneDrive\Desktop\Data_Science\EMR_Test\src\main\scala\main.scala -> C:\Users\kndoa\.m2\repository\org\apache\spark\spark-sql_2.12\2.4.5\spark-sql_2.12-2.4.5.jar
+C:\Users\kndoa\OneDrive\Desktop\Data_Science\EMR_Test\src\main\scala\main.scala -> C:\Users\kndoa\.m2\repository\org\scala-lang\scala-library\2.12.10\scala-library-2.12.10.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+2 items
+C:\Users\kndoa\OneDrive\Desktop\Data_Science\EMR_Test\src\main\scala\main.scala -> main
+C:\Users\kndoa\OneDrive\Desktop\Data_Science\EMR_Test\src\main\scala\main.scala -> main$
+used names:
+25 items
+C:\Users\kndoa\OneDrive\Desktop\Data_Science\EMR_Test\src\main\scala\main.scala -> +
+C:\Users\kndoa\OneDrive\Desktop\Data_Science\EMR_Test\src\main\scala\main.scala -> <init>
+C:\Users\kndoa\OneDrive\Desktop\Data_Science\EMR_Test\src\main\scala\main.scala -> Any
+C:\Users\kndoa\OneDrive\Desktop\Data_Science\EMR_Test\src\main\scala\main.scala -> AnyRef
+C:\Users\kndoa\OneDrive\Desktop\Data_Science\EMR_Test\src\main\scala\main.scala -> Array
+C:\Users\kndoa\OneDrive\Desktop\Data_Science\EMR_Test\src\main\scala\main.scala -> Builder
+C:\Users\kndoa\OneDrive\Desktop\Data_Science\EMR_Test\src\main\scala\main.scala -> Object
+C:\Users\kndoa\OneDrive\Desktop\Data_Science\EMR_Test\src\main\scala\main.scala -> Predef
+C:\Users\kndoa\OneDrive\Desktop\Data_Science\EMR_Test\src\main\scala\main.scala -> SparkSession
+C:\Users\kndoa\OneDrive\Desktop\Data_Science\EMR_Test\src\main\scala\main.scala -> String
+C:\Users\kndoa\OneDrive\Desktop\Data_Science\EMR_Test\src\main\scala\main.scala -> StringOps
+C:\Users\kndoa\OneDrive\Desktop\Data_Science\EMR_Test\src\main\scala\main.scala -> Unit
+C:\Users\kndoa\OneDrive\Desktop\Data_Science\EMR_Test\src\main\scala\main.scala -> apache
+C:\Users\kndoa\OneDrive\Desktop\Data_Science\EMR_Test\src\main\scala\main.scala -> appName
+C:\Users\kndoa\OneDrive\Desktop\Data_Science\EMR_Test\src\main\scala\main.scala -> augmentString
+C:\Users\kndoa\OneDrive\Desktop\Data_Science\EMR_Test\src\main\scala\main.scala -> builder
+C:\Users\kndoa\OneDrive\Desktop\Data_Science\EMR_Test\src\main\scala\main.scala -> getOrCreate
+C:\Users\kndoa\OneDrive\Desktop\Data_Science\EMR_Test\src\main\scala\main.scala -> main
+C:\Users\kndoa\OneDrive\Desktop\Data_Science\EMR_Test\src\main\scala\main.scala -> master
+C:\Users\kndoa\OneDrive\Desktop\Data_Science\EMR_Test\src\main\scala\main.scala -> org
+C:\Users\kndoa\OneDrive\Desktop\Data_Science\EMR_Test\src\main\scala\main.scala -> print
+C:\Users\kndoa\OneDrive\Desktop\Data_Science\EMR_Test\src\main\scala\main.scala -> scala
+C:\Users\kndoa\OneDrive\Desktop\Data_Science\EMR_Test\src\main\scala\main.scala -> spark
+C:\Users\kndoa\OneDrive\Desktop\Data_Science\EMR_Test\src\main\scala\main.scala -> sql
+C:\Users\kndoa\OneDrive\Desktop\Data_Science\EMR_Test\src\main\scala\main.scala -> stripMargin
+product stamps:
+2 items
+C:\Users\kndoa\OneDrive\Desktop\Data_Science\EMR_Test\target\classes\main$.class -> lastModified(1603240034027)
+C:\Users\kndoa\OneDrive\Desktop\Data_Science\EMR_Test\target\classes\main.class -> lastModified(1603240034031)
+source stamps:
+1 items
+C:\Users\kndoa\OneDrive\Desktop\Data_Science\EMR_Test\src\main\scala\main.scala -> hash(4e2e99dd87dd23bc9d7cc3db940a1a793207c640)
+binary stamps:
+2 items
+C:\Users\kndoa\.m2\repository\org\apache\spark\spark-sql_2.12\2.4.5\spark-sql_2.12-2.4.5.jar -> lastModified(1603239138624)
+C:\Users\kndoa\.m2\repository\org\scala-lang\scala-library\2.12.10\scala-library-2.12.10.jar -> lastModified(1601153492471)
+class names:
+2 items
+C:\Users\kndoa\.m2\repository\org\apache\spark\spark-sql_2.12\2.4.5\spark-sql_2.12-2.4.5.jar -> org.apache.spark.sql.SparkSession$
+C:\Users\kndoa\.m2\repository\org\scala-lang\scala-library\2.12.10\scala-library-2.12.10.jar -> scala.collection.immutable.StringLike
+internal apis:
+1 items
+C:\Users\kndoa\OneDrive\Desktop\Data_Science\EMR_Test\src\main\scala\main.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwKH5LkwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAUc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw2M+cVXQABm5vdGlmeXNxAH4ADGdcxqJ0AAR3YWl0c3EAfgAMV0bCV3QADSRhc0luc3RhbmNlT2ZzcQB+AAz1CEW2dAAGZXF1YWxzc3EAfgAM8RGfJnQADGFzSW5zdGFuY2VPZnNxAH4ADAAQBvZ0AAxzeW5jaHJvbml6ZWRzcQB+AAxvpJrcdAANJGlzSW5zdGFuY2VPZnNxAH4ADI3iZTN0AARtYWluc3EAfgAMUkrDu3QACW5vdGlmeUFsbHNxAH4ADIGB5610AAxpc0luc3RhbmNlT2ZzcQB+AAxLrACmdAACPT1zcQB+AAy15pl2dAAFY2xvbmVzcQB+AAydLfFvdAAIdG9TdHJpbmdzcQB+AAzV2jLhdAACIT1zcQB+AAy2V4pDdAAIZ2V0Q2xhc3NzcQB+AAyLBJkFdAACbmVzcQB+AAzPgEaUdAACZXFzcQB+AAwHSFgqdAACIyNzcQB+AAwhkBabdAAIZmluYWxpemVzcQB+AAy8jpAddAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgA/eHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+AB11cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAMc2NhbGEubmF0aXZldAAmamRrLmludGVybmFsLkhvdFNwb3RJbnRyaW5zaWNDYW5kaWRhdGVzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgA/TAAJaW5oZXJpdGVkcQB+AD9MAAdwYXJlbnRzcQB+AD94cQB+AF1zcQB+AFh1cQB+ADoAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEBxAH4ASXVxAH4ASgAAAABzcQB+AEwAdAAEbWFpbnVxAH4ATgAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBcdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGV4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFF0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AG1bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AFxzcQB+AGx0AAVBcnJheXEAfgBydXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AGx0AAZTdHJpbmdzcQB+AHBzcQB+AHN1cQB+AHYAAAADc3EAfgB4dAAEamF2YXNxAH4AeHQABGxhbmdxAH4AfXNxAH4AWHVxAH4AOgAAAABzcQB+AFh1cQB+AJEAAAACc3EAfgBsdAAGT2JqZWN0cQB+AJVzcQB+AGx0AANBbnlxAH4AcnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAF1SI1tznVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AERDOlxVc2Vyc1xrbmRvYVxPbmVEcml2ZVxEZXNrdG9wXERhdGFfU2NpZW5jZVxFTVJfVGVzdFx0YXJnZXRcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFE4umd2H3SO8nXzD25QKGnkyB8ZA
+external apis:
+0 items
+source infos:
+1 items
+C:\Users\kndoa\OneDrive\Desktop\Data_Science\EMR_Test\src\main\scala\main.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABdUiNbc51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAREM6XFVzZXJzXGtuZG9hXE9uZURyaXZlXERlc2t0b3BcRGF0YV9TY2llbmNlXEVNUl9UZXN0XHRhcmdldFxjbGFzc2VzdAABLw==
